@@ -1,0 +1,10 @@
+Features:
+
+* Agreement PDF generator
+* Digital signature
+* user field recompiling protection
+* protected fields that can be post/pre -filled
+* form protection for authorized user only
+* Custom user roles
+* Mail advisor on form events
+* Form button in user profile
